@@ -23,7 +23,9 @@ This repository contains the following core components:
 - **Documentation:** This README and additional files with setup, instructions, and insights from the analysis.
 
 ## Additional Information
-## Visualizations: Interactive dashboards will be available in the dashboards/ directory. Use your BI tool of choice to load and visualize the provided reports.
-## Documentation: All analysis reports and findings are documented in the docs/ folder. Please refer to these documents for detailed insights and methodologies used in the project.
+## Visualizations:
+Interactive dashboards will be available in the dashboards/ directory. Use your BI tool of choice to load and visualize the provided reports.
+## Documentation:
+All analysis reports and findings are documented in the docs/ folder. Please refer to these documents for detailed insights and methodologies used in the project.
 Contributing
 We welcome contributions to the Acme AttritionForecast project! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
